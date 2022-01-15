@@ -19,11 +19,13 @@
 ---
 
 **3)**  Update Operation
+
 <img src="images/update.png" height="400">
 
 ---
 
 **4)** Delete Operation
+
 <img src="images/delete.png" height="400">
 
 ---
