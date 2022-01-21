@@ -18,7 +18,7 @@
 
 **2)** GetById Method
 
-<img src="images/getbyýd.png">
+<img src="images/getbyÄ±d.png">
 
 ---
 
