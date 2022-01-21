@@ -1,0 +1,17 @@
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\Entities.dll
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\ref\Entities.dll
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\Entities.pdb
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\DAL.dll
+D:\.NetProjects\GameStore\Entities\bin\Debug\net6.0\DAL.pdb
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.dll
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.pdb
+D:\.NetProjects\GameStore\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
